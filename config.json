@@ -1,0 +1,6 @@
+{
+    "host": "ws://localhost",
+    "port": "8080",
+    "protocol": "voting",
+    "dataset": "subset"
+}
